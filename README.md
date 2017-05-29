@@ -5,11 +5,17 @@
 1.2 After you have downloaded all the files, you can run this website by opening index.html with a browser.
 
 1.3 How to use google PageSpeed Insights:
+
 1.3.1 First download python3 and ngrok
+
 1.3.2 Open your terminal(Windows: windows key + r, type in cmd and accept. Linux: ctrl+alt+t)
+
 1.3.3 Change directory to the current directory of your downloaded files(cd C:\"your_directory"\)
+
 1.3.5 Enter "python -m http.server 8080" for a local host
+
 1.3.6 Place your ngrok.exe file in the same directory, execute it and a terminal tab will open. Enter "ngrok.exe http 8080"
+
 1.3.7 Copy the website that appears in your terminal(http://******.ngrok.io for example) and paste in https://developers.google.com/speed/pagespeed/insights 
 
 2. Optimizations
