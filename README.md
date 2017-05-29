@@ -19,6 +19,7 @@
 1.3.7 Copy the website that appears in your terminal(http://******.ngrok.io for example) and paste in https://developers.google.com/speed/pagespeed/insights 
 
 2. Optimizations
+
 2.1 index.html
 - Optimized/deleted js/css files that provoked render blocking
 - Minified css and js
